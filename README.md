@@ -5,7 +5,7 @@
   <samp>
     :wave: Hi! there 😸
     <br>Currently pursuing a MSc in Computer Science at University of Helsinki.🇫🇮
-    <br>I am looking for <em>summer traineeship</em> or thesis worker positions related to Machine Learning and Artificial Intelligence in Finland. 
+    <br>I am looking for <em>summer traineeship</em> or thesis worker positions related to Machine Learning & AI analytics.
     <br>Today, I'm still learning to make data speak:sparkles:<br><br>
     <img src="https://media1.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76119a3208c78fb3d9a8b49760adbcf06b94489e2e63&rid=giphy.gif&ct=s" width="200px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://linkedin.com/in/xiaqianqian/">LinkedIn</a>
